@@ -78,7 +78,7 @@ class RICSStore {
             })
             .filter(item => {
                 // Only include if enabled AND at least one usage type is true
-                return item.enabled && (item.isUsable || item.isEquippable || item.isWearable);
+                return (item.enabled || item.isUsable || item.isEquippable || item.isWearable);
             })
             .filter(item => item.price > 0); // Only items with price > 0
     }
