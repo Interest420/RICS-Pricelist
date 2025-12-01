@@ -9,9 +9,10 @@ A GitHub Pages site for displaying RICS mod purchase lists.
 2. Enable GitHub Pages in your repository settings (Settings → Pages → Source: Deploy from branch → main branch)
 3. Upload your RICS JSON files to the `data/` folder:
    - `StoreItems.json`
-   - `StoreEvents.json` 
-   - `StoreTraits.json`
-   - `StoreRaces.json`
+   - `Events.json` 
+   - `Traits.json`
+   - `Racessetting.json`
+   - `Weather.json`
 4. Your price list will be available at `https://yourusername.github.io/rics-pricelist/`
 
 ### Customization
