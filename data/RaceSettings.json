@@ -107,7 +107,7 @@
       "MG_Foxgirl": 1.0,
       "MG_Catgirl": 1.0,
       "MG_Cowgirl": 1.0,
-      "YuranXenotype": 0.5,
+      "YuranXenotype": 1.0,
       "YuranXenotypeBlackSnake": 0.6951316
     },
     "EnabledXenotypes": {
@@ -136,7 +136,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "Milian_Race": {
@@ -177,7 +177,7 @@
       "MG_Foxgirl": 0.5,
       "MG_Catgirl": 0.5,
       "MG_Cowgirl": 0.5,
-      "YuranXenotype": 0.5,
+      "YuranXenotype": 1.0,
       "YuranXenotypeBlackSnake": 0.6951316
     },
     "EnabledXenotypes": {
@@ -247,7 +247,7 @@
       "MG_Foxgirl": 1.0,
       "MG_Catgirl": 1.0,
       "MG_Cowgirl": 1.0,
-      "YuranXenotype": 0.5,
+      "YuranXenotype": 1.0,
       "YuranXenotypeBlackSnake": 0.6951316
     },
     "EnabledXenotypes": {
@@ -346,7 +346,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Catgirl": {
@@ -416,7 +416,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Centaur": {
@@ -486,7 +486,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Cowgirl": {
@@ -556,7 +556,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Dragon": {
@@ -626,7 +626,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_ForestFairy": {
@@ -696,7 +696,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Foxgirl": {
@@ -766,7 +766,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Harpy": {
@@ -836,7 +836,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_IceFairy": {
@@ -906,7 +906,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Slime": {
@@ -976,7 +976,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Thrumbogirl": {
@@ -1046,7 +1046,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "MG_Wolfgirl": {
@@ -1116,7 +1116,7 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   },
   "Alien_Nyaron": {
@@ -1157,7 +1157,7 @@
       "MG_Foxgirl": 1.0,
       "MG_Catgirl": 1.0,
       "MG_Cowgirl": 1.0,
-      "YuranXenotype": 0.5,
+      "YuranXenotype": 1.0,
       "YuranXenotypeBlackSnake": 0.6951316
     },
     "EnabledXenotypes": {
@@ -1297,7 +1297,7 @@
       "MG_Foxgirl": 1.0,
       "MG_Catgirl": 1.0,
       "MG_Cowgirl": 1.0,
-      "YuranXenotype": 0.5,
+      "YuranXenotype": 1.0,
       "YuranXenotypeBlackSnake": 0.6951316
     },
     "EnabledXenotypes": {
@@ -1367,7 +1367,7 @@
       "MG_Foxgirl": 1.0,
       "MG_Catgirl": 1.0,
       "MG_Cowgirl": 1.0,
-      "YuranXenotype": 0.5,
+      "YuranXenotype": 1.0,
       "YuranXenotypeBlackSnake": 0.6951316
     },
     "EnabledXenotypes": {
@@ -1437,7 +1437,7 @@
       "MG_Foxgirl": 0.5,
       "MG_Catgirl": 0.5,
       "MG_Cowgirl": 0.5,
-      "YuranXenotype": 0.5,
+      "YuranXenotype": 1.0,
       "YuranXenotypeBlackSnake": 0.6951316
     },
     "EnabledXenotypes": {
@@ -1466,7 +1466,7 @@
       "MG_Catgirl": false,
       "MG_Cowgirl": false,
       "YuranXenotype": false,
-      "YuranXenotypeBlackSnake": true
+      "YuranXenotypeBlackSnake": false
     }
   }
 }
