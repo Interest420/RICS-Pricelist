@@ -2962,7 +2962,7 @@
       "Mod": "Core",
       "BasePrice": 1,
       "Category": "Foods",
-      "Enabled": false
+      "Enabled": true
     },
     "RawHops": {
       "DefName": "RawHops",
@@ -6876,7 +6876,7 @@
       "Mod": "Core",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true
+      "Enabled": false
     },
     "Bow_Short": {
       "DefName": "Bow_Short",
@@ -11379,7 +11379,7 @@
       "Mod": "Biotech",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_NeedleLauncher": {
       "DefName": "Gun_NeedleLauncher",
@@ -11398,7 +11398,7 @@
       "Mod": "Biotech",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true
+      "Enabled": false
     },
     "Tome": {
       "DefName": "Tome",
@@ -17022,7 +17022,7 @@
       "Mod": "Milira Race",
       "BasePrice": 1150,
       "Category": "Production",
-      "Enabled": false
+      "Enabled": true
     },
     "Milira_DroneRecharger": {
       "DefName": "Milira_DroneRecharger",
@@ -27719,7 +27719,7 @@
       "Mod": "[1.6] Moyo - from the depth",
       "BasePrice": 650,
       "Category": "Natural",
-      "Enabled": false
+      "Enabled": true
     },
     "AYYarrowBandage": {
       "DefName": "AYYarrowBandage",
@@ -35054,6 +35054,25 @@
       "BasePrice": 385,
       "Category": "Misc",
       "Enabled": false
+    },
+    "YR_thurible": {
+      "DefName": "YR_thurible",
+      "CustomName": "Yuran thurible",
+      "HasQuantityLimit": true,
+      "IsMelee": false,
+      "IsRanged": false,
+      "IsStuffAllowed": false,
+      "IsWeapon": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "ResearchOverrides": null,
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Yuran race",
+      "BasePrice": 510,
+      "Category": "Misc",
+      "Enabled": true
     }
   }
 }
