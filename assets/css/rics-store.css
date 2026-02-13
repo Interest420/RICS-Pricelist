@@ -8,7 +8,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f5f5f5;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e9ecf5 100%);
 }
 .container {
     max-width: 1200px;
@@ -16,22 +16,20 @@ body {
     padding: 20px;
 }
 
-/* Header - Changed to orange gradient */
+/* Header - Bluish gradient */
 header {
     text-align: center;
     margin-bottom: 30px;
     padding: 20px;
-    /* Bluish gradient */
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
 }
 header h1 {
     font-size: 2.5rem;
     margin-bottom: 10px;
-    /* Optional: slight text shadow for better readability on orange */
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* Tabs */
@@ -51,12 +49,12 @@ header h1 {
     border-bottom: 3px solid transparent;
 }
 .tab-button:hover {
-    background: #fff5f0; /* light orange tint on hover */
+    background: #f0f3ff; /* light blue tint on hover */
 }
 .tab-button.active {
     background: white;
-    border-bottom: 3px solid #ff6b35; /* match orange theme */
-    color: #ff6b35;
+    border-bottom: 3px solid #667eea; /* match header start color */
+    color: #667eea;
     font-weight: bold;
 }
 
@@ -85,11 +83,12 @@ header h1 {
     border: 2px solid #e9ecef;
     border-radius: 6px;
     font-size: 1rem;
-    transition: border-color 0.3s ease;
+    transition: all 0.3s ease;
 }
 .search-input:focus {
     outline: none;
-    border-color: #ff6b35; /* orange focus */
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
 }
 
 /* Table styles */
@@ -102,32 +101,35 @@ header h1 {
     margin-top: 10px;
 }
 .items-table th {
-    background: #fff5f0; /* very light orange */
+    background: linear-gradient(135deg, #f0f3ff 0%, #f5f0ff 100%);
     padding: 15px;
     text-align: left;
     font-weight: 600;
     color: #495057;
-    border-bottom: 2px solid #ff8c42;
+    border-bottom: 2px solid #764ba2;
     cursor: pointer;
     user-select: none;
     position: relative;
 }
 .items-table th:hover {
-    background: #ffe0cc;
+    background: linear-gradient(135deg, #e8ecff 0%, #ede5ff 100%);
 }
 .items-table th::after {
     content: '↕';
     position: absolute;
     right: 10px;
     opacity: 0.3;
+    color: #667eea;
 }
 .items-table th.sort-asc::after {
     content: '↑';
     opacity: 1;
+    color: #764ba2;
 }
 .items-table th.sort-desc::after {
     content: '↓';
     opacity: 1;
+    color: #764ba2;
 }
 .items-table td {
     padding: 15px;
@@ -135,7 +137,7 @@ header h1 {
     vertical-align: top;
 }
 .items-table tbody tr:hover {
-    background: #fff5f0; /* light orange hover */
+    background: linear-gradient(135deg, #f8faff 0%, #faf5ff 100%);
 }
 
 /* Metadata styles */
@@ -148,7 +150,7 @@ header h1 {
 
 /* Race-specific styles */
 .race-xenotype {
-    background-color: #fff5f0;
+    background: linear-gradient(135deg, #f0f3ff 0%, #f5f0ff 100%);
 }
 .race-base {
     background-color: white;
@@ -177,4 +179,29 @@ header h1 {
     header h1 {
         font-size: 2rem;
     }
+}
+
+/* Additional accents to match the bluish theme */
+::selection {
+    background: #667eea;
+    color: white;
+}
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f0f3ff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, #5a6fd9, #6a4295);
 }
