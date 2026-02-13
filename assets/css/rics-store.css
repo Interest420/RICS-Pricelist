@@ -21,8 +21,8 @@ header {
     text-align: center;
     margin-bottom: 30px;
     padding: 20px;
-    /* Orange gradient */
-    background: linear-gradient(135deg, #ff6b35 0%, #ff8c42 100%);
+    /* Bluish gradient */
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
