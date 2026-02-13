@@ -100,7 +100,6 @@ async init() {
     processItemsData(itemsObject) {
         return Object.entries(itemsObject)
             .map(([key, itemData]) => {
-                // Use the structure from your sample
                 return {
                     defName: itemData.DefName || key,
                     name: itemData.CustomName || itemData.DefName || key,
@@ -112,14 +111,16 @@ async init() {
                     isUsable: itemData.IsUsable || false,
                     isEquippable: itemData.IsEquippable || false,
                     isWearable: itemData.IsWearable || false,
-                    enabled: itemData.Enabled !== false
+                    enabled: itemData.Enabled !== false,
+                    modActive: itemData.modactive || false  // ADD THIS
                 };
             })
             .filter(item => {
-                // Only include if enabled AND at least one usage type is true
-                return (item.enabled || item.isUsable || item.isEquippable || item.isWearable);
-            })
-            .filter(item => item.price > 0); // Only items with price > 0
+                // Only include if enabled AND at least one usage type is true AND mod is active
+                return (item.enabled || item.isUsable || item.isEquippable || item.isWearable) && 
+                       item.price > 0 && 
+                       item.modActive === true;
+            });
     }
 
     processEventsData(eventsObject) {
