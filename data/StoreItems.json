@@ -12,7 +12,7 @@
       "Mod": "Core",
       "BasePrice": 160,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Schematic": {
@@ -27,7 +27,7 @@
       "Mod": "Core",
       "BasePrice": 150,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Novel": {
@@ -42,7 +42,7 @@
       "Mod": "Core",
       "BasePrice": 160,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Beer": {
@@ -9012,7 +9012,7 @@
       "Mod": "Anomaly",
       "BasePrice": 250,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AdrenalHeart": {
