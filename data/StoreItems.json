@@ -877,12 +877,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "EggBox": {
@@ -2397,7 +2397,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Shell_Incendiary": {
@@ -2412,7 +2412,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Shell_EMP": {
@@ -2427,7 +2427,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Shell_Smoke": {
@@ -2442,7 +2442,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Shell_Firefoam": {
@@ -2457,7 +2457,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Shell_AntigrainWarhead": {
@@ -2472,7 +2472,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mortar shells",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Silver": {
@@ -5407,12 +5407,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Gun_Needle": {
@@ -8187,7 +8187,7 @@
       "Mod": "Biotech",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Genepack": {
