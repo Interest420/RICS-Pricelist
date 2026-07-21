@@ -26886,13 +26886,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 75,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 2,
       "Category": "Meat",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Meat_Megaspider": {
