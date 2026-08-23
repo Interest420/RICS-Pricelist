@@ -1,13 +1,7 @@
 {
-  "exportedAt": "2026-07-20T10:34:07.0607448Z",
-  "totalActiveMods": 113,
+  "exportedAt": "2026-08-23T23:09:13.7450281Z",
+  "totalActiveMods": 115,
   "mods": [
-    {
-      "author": "Nemonian.MY",
-      "name": "[1.6] Moyo - from the depth",
-      "steamId": "3240244292",
-      "version": null
-    },
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
@@ -69,21 +63,27 @@
       "version": "1.6.0"
     },
     {
-      "author": "Syrchalis",
-      "name": "[SYR] Processor Framework",
-      "steamId": "3210544395",
-      "version": null
-    },
-    {
       "author": "Soul, Phaneron, Bradson",
       "name": "Adaptive Storage Framework",
       "steamId": "3033901359",
       "version": null
     },
     {
+      "author": "Sarg Bjornson",
+      "name": "Alpha Prefabs",
+      "steamId": "3070780021",
+      "version": null
+    },
+    {
       "author": "dninemfive",
       "name": "Ambrosial Longevity",
       "steamId": "1716270997",
+      "version": null
+    },
+    {
+      "author": "Ancot",
+      "name": "Ancot Library",
+      "steamId": "2988801276",
       "version": null
     },
     {
@@ -184,6 +184,12 @@
     },
     {
       "author": "Dubwise",
+      "name": "Dubs Central Heating",
+      "steamId": "2619214952",
+      "version": "1.1.1012"
+    },
+    {
+      "author": "Dubwise",
       "name": "Dubs Mint Menus",
       "steamId": "1446523594",
       "version": "1.3.1247"
@@ -225,6 +231,12 @@
       "version": null
     },
     {
+      "author": "GoGaTio",
+      "name": "Gravcore Timings",
+      "steamId": "3558096842",
+      "version": null
+    },
+    {
       "author": "Krypt",
       "name": "Grouped Pawns Lists",
       "steamId": "2340773428",
@@ -235,6 +247,12 @@
       "name": "Harmony",
       "steamId": "2009463077",
       "version": "2.4.2.0"
+    },
+    {
+      "author": "Syrus",
+      "name": "Healer Mech Serum Choice",
+      "steamId": "2714095848",
+      "version": null
     },
     {
       "author": "erdelf",
@@ -249,15 +267,27 @@
       "version": null
     },
     {
+      "author": "LTS",
+      "name": "Integrated Implants",
+      "steamId": "3223443793",
+      "version": null
+    },
+    {
       "author": "keyz182",
       "name": "Keyz' Allow Utilities",
       "steamId": "3524716849",
-      "version": "1.3.3"
+      "version": "1.3.7"
     },
     {
       "author": "キャデグ",
       "name": "Killfeed",
       "steamId": "1362098265",
+      "version": null
+    },
+    {
+      "author": "chad gamer",
+      "name": "Land Ship On Any Tile",
+      "steamId": "3547652788",
       "version": null
     },
     {
@@ -285,45 +315,9 @@
       "version": null
     },
     {
-      "author": "BotchJob",
-      "name": "Medieval Fantasy Themed Quest Rewards",
-      "steamId": "2955864975",
-      "version": null
-    },
-    {
-      "author": "BotchJob",
-      "name": "Medieval Fantasy Themed Rare Resources",
-      "steamId": "2942661554",
-      "version": null
-    },
-    {
-      "author": "Rince",
-      "name": "Medieval Go-juice",
-      "steamId": "2969927060",
-      "version": null
-    },
-    {
-      "author": "SirLalaPyon",
-      "name": "Medieval Overhaul",
-      "steamId": "3219596926",
-      "version": "1.6.2.2"
-    },
-    {
-      "author": "Evil Eye Guy",
-      "name": "Medieval Overhaul: Adaptive Storage",
-      "steamId": "3425601715",
-      "version": null
-    },
-    {
-      "author": "Evil Eye Guy",
-      "name": "Medieval Overhaul: Royalty",
-      "steamId": "2646321064",
-      "version": null
-    },
-    {
-      "author": "Evil Eye Guy",
-      "name": "Medieval Overhaul: Toggleable Stuff",
-      "steamId": "2898440531",
+      "author": "Ancot",
+      "name": "Milira Race",
+      "steamId": "3256974620",
       "version": null
     },
     {
@@ -345,10 +339,22 @@
       "version": null
     },
     {
+      "author": "Nemonian",
+      "name": "Moyo2.0-Blood stained business",
+      "steamId": "3756132017",
+      "version": null
+    },
+    {
       "author": "Oblitus",
       "name": "My Little Planet",
       "steamId": "1117406550",
       "version": null
+    },
+    {
+      "author": "NebulaeFlood",
+      "name": "NebulaeFlood's Lib",
+      "steamId": "3402755850",
+      "version": "1.10.10"
     },
     {
       "author": "doll",
@@ -393,6 +399,12 @@
       "version": null
     },
     {
+      "author": "Taranchuk",
+      "name": "Performance Optimizer",
+      "steamId": "2664723367",
+      "version": null
+    },
+    {
       "author": "Mehni",
       "name": "Pick Up And Haul",
       "steamId": "1279012058",
@@ -402,12 +414,6 @@
       "author": "Peppsen",
       "name": "P-Music",
       "steamId": "725130005",
-      "version": null
-    },
-    {
-      "author": "Botch_Job",
-      "name": "Possessed Weapons",
-      "steamId": "2982391372",
       "version": null
     },
     {
@@ -426,7 +432,7 @@
       "author": "Hatti, pkp24",
       "name": "QualityBuilder Unofficial 1.6",
       "steamId": "3512466087",
-      "version": "1.6.012"
+      "version": "1.6.013"
     },
     {
       "author": "cedaro",
@@ -465,12 +471,6 @@
       "version": null
     },
     {
-      "author": "Sierra",
-      "name": "RimFantasy - Medieval Overhaul Edition",
-      "steamId": "2836791007",
-      "version": null
-    },
-    {
       "author": "Jaxe",
       "name": "RimHUD",
       "steamId": "1508850027",
@@ -483,10 +483,22 @@
       "version": null
     },
     {
-      "author": "BenFD",
-      "name": "RimSiege",
-      "steamId": "3760658038",
-      "version": "1.2.0"
+      "author": "rooki1",
+      "name": "Rimsenal - Security Pack",
+      "steamId": "736139206",
+      "version": null
+    },
+    {
+      "author": "rooki1",
+      "name": "Rimsenal Faction Pack - Federation",
+      "steamId": "736172213",
+      "version": null
+    },
+    {
+      "author": "rooki1",
+      "name": "Rimsenal: Murder diversified",
+      "steamId": "725947920",
+      "version": null
     },
     {
       "author": "Sierra",
@@ -519,18 +531,6 @@
       "version": null
     },
     {
-      "author": "PlusBlankPlus",
-      "name": "Scenario Amender [1.6 Fixed]",
-      "steamId": "3761028060",
-      "version": null
-    },
-    {
-      "author": "Fair",
-      "name": "Scheduled Events (Continued)",
-      "steamId": "2126125070",
-      "version": "1.6.2"
-    },
-    {
       "author": "2blockdude",
       "name": "Scrollable Gizmos",
       "steamId": "2838035829",
@@ -555,6 +555,12 @@
       "version": null
     },
     {
+      "author": "NebulaeFlood",
+      "name": "Simply More Roofs",
+      "steamId": "3536657775",
+      "version": "1.0.16"
+    },
+    {
       "author": "dhultgren",
       "name": "Smarter Construction",
       "steamId": "2202185773",
@@ -564,7 +570,7 @@
       "author": "DarkShadow44",
       "name": "SurgeryImproved",
       "steamId": "3233032071",
-      "version": "1.3"
+      "version": "1.4"
     },
     {
       "author": "Carny Senpai",
@@ -597,21 +603,27 @@
       "version": null
     },
     {
+      "author": "OskarPotocki,  Atlas,  Kikohi,  Sarg,  Sokyran",
+      "name": "Vanilla Furniture Expanded",
+      "steamId": "1718190143",
+      "version": null
+    },
+    {
       "author": "Oskar Potocki,  Sarg Bjornson",
       "name": "Vanilla Furniture Expanded - Art",
       "steamId": "1968134023",
       "version": null
     },
     {
-      "author": "Oskar Potocki,  Sarg Bjornson",
-      "name": "Vanilla Furniture Expanded - Props and Decor",
-      "steamId": "2102143149",
+      "author": "Oskar Potocki,  dninemfive,  Kikohi,  Sarg",
+      "name": "Vanilla Furniture Expanded - Farming",
+      "steamId": "1957158779",
       "version": null
     },
     {
-      "author": "Oskar Potocki,  Sarg Bjornson,  Taranchuk,  Reann Shepard",
-      "name": "Vanilla Ideology Expanded - Dryads",
-      "steamId": "2720631512",
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Furniture Expanded - Props and Decor",
+      "steamId": "2102143149",
       "version": null
     },
     {
@@ -624,6 +636,18 @@
       "author": "Oskar Potocki,  Sarg Bjornson",
       "name": "Vanilla Landmarks Expanded",
       "steamId": "3656316229",
+      "version": null
+    },
+    {
+      "author": "legodude17, Oskar Potocki",
+      "name": "Vanilla Outposts Expanded",
+      "steamId": "2688941031",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
+      "name": "Vanilla Plants Expanded",
+      "steamId": "2134308522",
       "version": null
     },
     {
@@ -657,12 +681,6 @@
       "version": null
     },
     {
-      "author": "m00nl1ght",
-      "name": "World Tech Level",
-      "steamId": "3414187030",
-      "version": null
-    },
-    {
       "author": "Imranfish",
       "name": "XML Extensions",
       "steamId": "2574315206",
@@ -673,12 +691,6 @@
       "name": "Yuran race",
       "steamId": "2844129100",
       "version": null
-    },
-    {
-      "author": "Andreas Pardeike",
-      "name": "Zombieland",
-      "steamId": "928376710",
-      "version": "5.4.1.0"
     }
   ]
 }

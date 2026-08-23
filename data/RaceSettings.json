@@ -40,7 +40,9 @@
       "MG_Catgirl": 3000.0,
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
-      "YuranXenotypeBlackSnake": 3000.0
+      "YuranXenotypeBlackSnake": 3000.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -68,7 +70,9 @@
       "MG_Catgirl": true,
       "MG_Cowgirl": true,
       "YuranXenotype": true,
-      "YuranXenotypeBlackSnake": false
+      "YuranXenotypeBlackSnake": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "Arachne": {
@@ -113,7 +117,9 @@
       "MG_Cowgirl": 5000.0,
       "YuranXenotype": 5000.0,
       "YuranXenotypeBlackSnake": 2625.0,
-      "Cinder_Xenotype": 1750.0
+      "Cinder_Xenotype": 1750.0,
+      "Moyo2_Xenotype_Chemskin": 5000.0,
+      "Moyo2_Xenotype_Depthborn": 5000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -142,13 +148,15 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "Milian_Race": {
     "DisplayName": "Milian",
     "Enabled": false,
-    "ModActive": false,
+    "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
     "MaxAge": 65,
@@ -220,7 +228,7 @@
   "Milira_Race": {
     "DisplayName": "Milira",
     "Enabled": true,
-    "ModActive": false,
+    "ModActive": true,
     "BasePrice": 10000,
     "MinAge": 16,
     "MaxAge": 65,
@@ -333,7 +341,9 @@
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
       "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 1850.0
+      "Cinder_Xenotype": 1850.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -362,7 +372,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_Catgirl": {
@@ -407,7 +419,9 @@
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
       "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 1500.0
+      "Cinder_Xenotype": 1500.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -436,7 +450,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_Centaur": {
@@ -629,7 +645,9 @@
       "MG_Cowgirl": 5000.0,
       "YuranXenotype": 5000.0,
       "YuranXenotypeBlackSnake": 5000.0,
-      "Cinder_Xenotype": 2200.0
+      "Cinder_Xenotype": 2200.0,
+      "Moyo2_Xenotype_Chemskin": 5000.0,
+      "Moyo2_Xenotype_Depthborn": 5000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -658,7 +676,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_ForestFairy": {
@@ -703,7 +723,9 @@
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
       "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 1800.0
+      "Cinder_Xenotype": 1800.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -732,7 +754,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_Foxgirl": {
@@ -777,7 +801,9 @@
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
       "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 1500.0
+      "Cinder_Xenotype": 1500.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -806,7 +832,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_Harpy": {
@@ -851,7 +879,9 @@
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
       "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 1600.0
+      "Cinder_Xenotype": 1600.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -880,7 +910,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_IceFairy": {
@@ -925,7 +957,9 @@
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
       "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 1800.0
+      "Cinder_Xenotype": 1800.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -954,7 +988,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_Slime": {
@@ -999,7 +1035,9 @@
       "MG_Cowgirl": 5000.0,
       "YuranXenotype": 5000.0,
       "YuranXenotypeBlackSnake": 5000.0,
-      "Cinder_Xenotype": 1800.0
+      "Cinder_Xenotype": 1800.0,
+      "Moyo2_Xenotype_Chemskin": 5000.0,
+      "Moyo2_Xenotype_Depthborn": 5000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -1028,7 +1066,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_Thrumbogirl": {
@@ -1073,7 +1113,9 @@
       "MG_Cowgirl": 5000.0,
       "YuranXenotype": 5000.0,
       "YuranXenotypeBlackSnake": 5000.0,
-      "Cinder_Xenotype": 2200.0
+      "Cinder_Xenotype": 2200.0,
+      "Moyo2_Xenotype_Chemskin": 5000.0,
+      "Moyo2_Xenotype_Depthborn": 5000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -1102,7 +1144,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "MG_Wolfgirl": {
@@ -1147,7 +1191,9 @@
       "MG_Cowgirl": 3000.0,
       "YuranXenotype": 3000.0,
       "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 1500.0
+      "Cinder_Xenotype": 1500.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -1176,7 +1222,9 @@
       "MG_Cowgirl": true,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "Alien_Nyaron": {
@@ -1270,61 +1318,65 @@
     },
     "XenotypePrices": {
       "Baseliner": 3000.0,
-      "Dirtmole": 3000.0,
-      "Genie": 3000.0,
-      "Hussar": 3000.0,
-      "Sanguophage": 3000.0,
-      "Neanderthal": 3000.0,
-      "Pigskin": 3000.0,
-      "Impid": 3000.0,
-      "Waster": 3000.0,
-      "Yttakin": 3000.0,
-      "Highmate": 3000.0,
-      "Starjack": 3000.0,
-      "MG_Dragon": 3000.0,
-      "MG_Thrumbogirl": 3000.0,
-      "MG_Baphomet": 3000.0,
-      "MG_Slime": 3000.0,
-      "MG_Centaur": 3000.0,
-      "MG_Harpy": 3000.0,
-      "MG_ForestFairy": 3000.0,
-      "MG_IceFairy": 3000.0,
-      "MG_Wolfgirl": 3000.0,
-      "MG_Foxgirl": 3000.0,
-      "MG_Catgirl": 3000.0,
-      "MG_Cowgirl": 3000.0,
-      "YuranXenotype": 3000.0,
-      "YuranXenotypeBlackSnake": 3000.0,
-      "Cinder_Xenotype": 3000.0
+      "Dirtmole": 2500.0,
+      "Genie": 2500.0,
+      "Hussar": 3125.0,
+      "Sanguophage": 5005.0,
+      "Neanderthal": 2500.0,
+      "Pigskin": 2500.0,
+      "Impid": 3750.0,
+      "Waster": 3125.0,
+      "Yttakin": 2500.0,
+      "Highmate": 2500.0,
+      "Starjack": 2500.0,
+      "MG_Dragon": 3750.0,
+      "MG_Thrumbogirl": 2500.0,
+      "MG_Baphomet": 2500.0,
+      "MG_Slime": 3125.0,
+      "MG_Centaur": 2500.0,
+      "MG_Harpy": 2500.0,
+      "MG_ForestFairy": 3750.0,
+      "MG_IceFairy": 3125.0,
+      "MG_Wolfgirl": 2500.0,
+      "MG_Foxgirl": 2500.0,
+      "MG_Catgirl": 2500.0,
+      "MG_Cowgirl": 2500.0,
+      "YuranXenotype": 2500.0,
+      "YuranXenotypeBlackSnake": 3750.0,
+      "Cinder_Xenotype": 2500.0,
+      "Moyo2_Xenotype_Chemskin": 3000.0,
+      "Moyo2_Xenotype_Depthborn": 3000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
-      "Dirtmole": true,
-      "Genie": true,
-      "Hussar": true,
+      "Dirtmole": false,
+      "Genie": false,
+      "Hussar": false,
       "Sanguophage": false,
-      "Neanderthal": true,
-      "Pigskin": true,
-      "Impid": true,
-      "Waster": true,
-      "Yttakin": true,
+      "Neanderthal": false,
+      "Pigskin": false,
+      "Impid": false,
+      "Waster": false,
+      "Yttakin": false,
       "Highmate": false,
-      "Starjack": true,
-      "MG_Dragon": true,
-      "MG_Thrumbogirl": true,
-      "MG_Baphomet": true,
-      "MG_Slime": true,
-      "MG_Centaur": true,
-      "MG_Harpy": true,
-      "MG_ForestFairy": true,
-      "MG_IceFairy": true,
-      "MG_Wolfgirl": true,
-      "MG_Foxgirl": true,
-      "MG_Catgirl": true,
-      "MG_Cowgirl": true,
-      "YuranXenotype": true,
+      "Starjack": false,
+      "MG_Dragon": false,
+      "MG_Thrumbogirl": false,
+      "MG_Baphomet": false,
+      "MG_Slime": false,
+      "MG_Centaur": false,
+      "MG_Harpy": false,
+      "MG_ForestFairy": false,
+      "MG_IceFairy": false,
+      "MG_Wolfgirl": false,
+      "MG_Foxgirl": false,
+      "MG_Catgirl": false,
+      "MG_Cowgirl": false,
+      "YuranXenotype": false,
       "YuranXenotypeBlackSnake": false,
-      "Cinder_Xenotype": false
+      "Cinder_Xenotype": false,
+      "Moyo2_Xenotype_Chemskin": true,
+      "Moyo2_Xenotype_Depthborn": true
     }
   },
   "Yuran_Race": {
