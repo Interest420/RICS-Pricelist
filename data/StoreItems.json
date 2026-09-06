@@ -1641,13 +1641,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 10,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 20,
       "Category": "Meals",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MealFine_Veg": {
@@ -7392,7 +7392,7 @@
       "Mod": "Ideology",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "TotemicSlab_Broad": {
@@ -7407,7 +7407,7 @@
       "Mod": "Ideology",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SpikecoreFloorStar_Medium": {
@@ -7452,7 +7452,7 @@
       "Mod": "Ideology",
       "BasePrice": 154,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "RusticRug_Broad": {
@@ -7467,7 +7467,7 @@
       "Mod": "Ideology",
       "BasePrice": 230,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "AnimalistSlab_Medium": {
@@ -24852,7 +24852,7 @@
       "Mod": "Rimsenal - Security Pack",
       "BasePrice": 2500,
       "Category": "Power",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Turret_SuvTurret": {
@@ -47877,7 +47877,7 @@
       "Mod": "Moyo2.0-Blood stained business",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Moyo2_Beludog": {
