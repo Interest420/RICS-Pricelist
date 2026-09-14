@@ -1437,7 +1437,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Special",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "InfiniteChemreactor": {
@@ -1491,7 +1491,7 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
