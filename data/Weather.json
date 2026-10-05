@@ -346,5 +346,17 @@
     "ModSource": "Vanilla Events Expanded",
     "modactive": true,
     "Version": 1
+  },
+  "RA_Downpour": {
+    "DefName": "RA_Downpour",
+    "Label": "amethyst night",
+    "Description": "When you look up into the sky, you will see that the sun and the moon have become a giant amethyst, which is tilting rain down through the cracks. \n\nYou know she's watching you.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Ratkin Anomaly+",
+    "modactive": true,
+    "Version": 1
   }
 }

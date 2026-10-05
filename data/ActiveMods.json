@@ -1,12 +1,12 @@
 {
-  "exportedAt": "2026-08-23T23:09:13.7450281Z",
-  "totalActiveMods": 115,
+  "exportedAt": "2026-10-05T06:21:30.7056777Z",
+  "totalActiveMods": 123,
   "mods": [
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": null
+      "version": "1.51.0"
     },
     {
       "author": "FrozenSnowFox",
@@ -108,7 +108,7 @@
       "author": "Zaljerem",
       "name": "Better Infestations (Continued)",
       "steamId": "3285516766",
-      "version": "1.0.6"
+      "version": "1.0.7"
     },
     {
       "author": "Madeline",
@@ -192,13 +192,13 @@
       "author": "Dubwise",
       "name": "Dubs Mint Menus",
       "steamId": "1446523594",
-      "version": "1.3.1247"
+      "version": "1.3.1684"
     },
     {
       "author": "Dubwise",
       "name": "Dubs Performance Analyzer",
       "steamId": "2038874626",
-      "version": null
+      "version": "1.6.10"
     },
     {
       "author": "trigger",
@@ -276,7 +276,7 @@
       "author": "keyz182",
       "name": "Keyz' Allow Utilities",
       "steamId": "3524716849",
-      "version": "1.3.7"
+      "version": "1.3.8"
     },
     {
       "author": "キャデグ",
@@ -288,6 +288,12 @@
       "author": "chad gamer",
       "name": "Land Ship On Any Tile",
       "steamId": "3547652788",
+      "version": null
+    },
+    {
+      "author": "Costel",
+      "name": "Layered Apparel",
+      "steamId": "3632480044",
       "version": null
     },
     {
@@ -435,6 +441,12 @@
       "version": "1.6.013"
     },
     {
+      "author": "Feng Xinzi",
+      "name": "Ratkin Anomaly+",
+      "steamId": "3293914637",
+      "version": null
+    },
+    {
       "author": "cedaro",
       "name": "Reading Bill (Continued)",
       "steamId": "3559185722",
@@ -480,12 +492,6 @@
       "author": "aRandomKiwi",
       "name": "RimSaves",
       "steamId": "1713367505",
-      "version": null
-    },
-    {
-      "author": "rooki1",
-      "name": "Rimsenal - Security Pack",
-      "steamId": "736139206",
       "version": null
     },
     {
@@ -603,6 +609,12 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi,  legodude17",
+      "name": "Vanilla Factions Expanded - Pirates",
+      "steamId": "2723801948",
+      "version": null
+    },
+    {
       "author": "OskarPotocki,  Atlas,  Kikohi,  Sarg,  Sokyran",
       "name": "Vanilla Furniture Expanded",
       "steamId": "1718190143",
@@ -624,6 +636,12 @@
       "author": "Oskar Potocki,  Sarg Bjornson",
       "name": "Vanilla Furniture Expanded - Props and Decor",
       "steamId": "2102143149",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sokyran,  Taranchuk",
+      "name": "Vanilla Furniture Expanded - Security",
+      "steamId": "1845154007",
       "version": null
     },
     {
@@ -663,9 +681,39 @@
       "version": null
     },
     {
-      "author": "Oskar Potocki",
-      "name": "Vanilla Storytellers Expanded - Perry Persistent",
-      "steamId": "2149702069",
+      "author": "Oskar Potocki,  Kikohi",
+      "name": "Vanilla Storytellers Expanded - Winston Waves",
+      "steamId": "3215569151",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  Smash Phil,  Taranchuk,  Reann Shepard,  Sarg",
+      "name": "Vanilla Vehicles Expanded",
+      "steamId": "3014906877",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  Smash Phil,  Taranchuk,  Reann Shepard",
+      "name": "Vanilla Vehicles Expanded - Tier 3",
+      "steamId": "3047892432",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Smash Phil",
+      "name": "Vanilla Vehicles Expanded - Upgrades",
+      "steamId": "3302208420",
+      "version": null
+    },
+    {
+      "author": "Smash Phil",
+      "name": "Vehicle Framework",
+      "steamId": "3014915404",
+      "version": "1.6.2144"
+    },
+    {
+      "author": "gabrieel1482",
+      "name": "VehicleRaid Framework",
+      "steamId": "3667863988",
       "version": null
     },
     {
