@@ -9668,7 +9668,7 @@
     "BaseCost": 1000,
     "KarmaType": "Good",
     "EventCap": 2,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "Auto-disabled: Mod event (enable manually if desired)",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
