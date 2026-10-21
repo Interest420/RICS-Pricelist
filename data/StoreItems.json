@@ -6087,7 +6087,7 @@
       "Mod": "Royalty",
       "BasePrice": 400,
       "Category": "Special",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ShipLandingBeacon": {
@@ -6652,12 +6652,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Royalty",
       "BasePrice": 3000,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MeleeWeapon_ZeusHammerBladelink": {
@@ -6667,12 +6667,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Royalty",
       "BasePrice": 3000,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MeleeWeapon_PlasmaSwordBladelink": {
@@ -6682,12 +6682,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Royalty",
       "BasePrice": 3000,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MeleeWeapon_Axe": {
@@ -9642,7 +9642,7 @@
       "Mod": "Anomaly",
       "BasePrice": 600,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_HellcatRifle": {
@@ -17889,7 +17889,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "[L] House Maid Nukos 1.6",
+      "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 4,
       "Category": "Wools",
       "Enabled": true,
@@ -17904,7 +17904,7 @@
       "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "[L] House Maid Nukos 1.6",
+      "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 6,
       "Category": "Animal products",
       "Enabled": false,
@@ -17919,7 +17919,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": true,
-      "Mod": "[L] House Maid Nukos 1.6",
+      "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 450,
       "Category": "Apparel",
       "Enabled": true,
@@ -17934,7 +17934,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": true,
-      "Mod": "[L] House Maid Nukos 1.6",
+      "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 600,
       "Category": "Apparel",
       "Enabled": true,
@@ -17949,7 +17949,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "[L] House Maid Nukos 1.6",
+      "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 1000,
       "Category": "Animals",
       "Enabled": true,
@@ -17964,7 +17964,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "[L] House Maid Nukos 1.6",
+      "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 1300,
       "Category": "Animals",
       "Enabled": false,
@@ -50009,6 +50009,21 @@
       "Category": "Furniture",
       "Enabled": false,
       "modactive": true
+    },
+    "RK_EnergyShield": {
+      "DefName": "RK_EnergyShield",
+      "CustomName": "Ratkin energy shield",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "NewRatkinPlus",
+      "BasePrice": 2175,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": false
     }
   }
 }
