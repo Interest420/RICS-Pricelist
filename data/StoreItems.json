@@ -1521,13 +1521,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 10,
       "LimitMode": "OneStack",
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 1300,
       "Category": "Drugs",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "MechSerumResurrector": {
@@ -6087,7 +6087,7 @@
       "Mod": "Royalty",
       "BasePrice": 400,
       "Category": "Special",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ShipLandingBeacon": {
@@ -31479,11 +31479,11 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Zombieland 1.6",
+      "Mod": "Zombieland",
       "BasePrice": 255,
       "Category": "Weapon",
       "Enabled": false,
-      "modactive": false
+      "modactive": true
     },
     "VAEA_Apparel_Backpack": {
       "DefName": "VAEA_Apparel_Backpack",
@@ -43333,7 +43333,7 @@
       "BasePrice": 225,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VVE_EngineBlock": {
       "DefName": "VVE_EngineBlock",
@@ -43348,7 +43348,7 @@
       "BasePrice": 325,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarAlternator": {
       "DefName": "VVE_CarAlternator",
@@ -43363,7 +43363,7 @@
       "BasePrice": 95,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarExhaust": {
       "DefName": "VVE_CarExhaust",
@@ -43378,7 +43378,7 @@
       "BasePrice": 80,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarSuspension": {
       "DefName": "VVE_CarSuspension",
@@ -43393,7 +43393,7 @@
       "BasePrice": 90,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarWheel": {
       "DefName": "VVE_CarWheel",
@@ -43408,7 +43408,7 @@
       "BasePrice": 70,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarBattery": {
       "DefName": "VVE_CarBattery",
@@ -43423,7 +43423,7 @@
       "BasePrice": 120,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarFuelTank": {
       "DefName": "VVE_CarFuelTank",
@@ -43438,7 +43438,7 @@
       "BasePrice": 95,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarTransmission": {
       "DefName": "VVE_CarTransmission",
@@ -43453,7 +43453,7 @@
       "BasePrice": 170,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarRadiator": {
       "DefName": "VVE_CarRadiator",
@@ -43468,7 +43468,7 @@
       "BasePrice": 90,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VVE_CarWiring": {
       "DefName": "VVE_CarWiring",
@@ -43483,7 +43483,7 @@
       "BasePrice": 125,
       "Category": "Car parts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RR_FieldResearchKitSimple": {
       "DefName": "RR_FieldResearchKitSimple",
@@ -47233,7 +47233,7 @@
       "BasePrice": 400,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Goblin": {
       "DefName": "IsekaiEgg_Goblin",
@@ -48598,7 +48598,7 @@
       "BasePrice": 900,
       "Category": "Bionic",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFES_Complex_GraserCannon": {
       "DefName": "VFES_Complex_GraserCannon",
@@ -48958,7 +48958,7 @@
       "BasePrice": 475,
       "Category": "Security",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Turret_Cannon": {
       "DefName": "VFEP_Turret_Cannon",
@@ -48973,7 +48973,7 @@
       "BasePrice": 270,
       "Category": "Security",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_Autorifle": {
       "DefName": "VFEP_Box_Autorifle",
@@ -48988,7 +48988,7 @@
       "BasePrice": 1250,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_UraniumSlugRifle": {
       "DefName": "VFEP_Box_UraniumSlugRifle",
@@ -49003,7 +49003,7 @@
       "BasePrice": 1650,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_Slugthrower": {
       "DefName": "VFEP_Box_Slugthrower",
@@ -49018,7 +49018,7 @@
       "BasePrice": 1100,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_Minigun": {
       "DefName": "VFEP_Box_Minigun",
@@ -49033,7 +49033,7 @@
       "BasePrice": 2240,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_GrenadeLauncher": {
       "DefName": "VFEP_Box_GrenadeLauncher",
@@ -49048,7 +49048,7 @@
       "BasePrice": 1890,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_HeavyFlamer": {
       "DefName": "VFEP_Box_HeavyFlamer",
@@ -49063,7 +49063,7 @@
       "BasePrice": 2450,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_CombatKnife": {
       "DefName": "VFEP_Box_CombatKnife",
@@ -49078,7 +49078,7 @@
       "BasePrice": 870,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_Broadsword": {
       "DefName": "VFEP_Box_Broadsword",
@@ -49093,7 +49093,7 @@
       "BasePrice": 1460,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_ChargeLance": {
       "DefName": "VFEP_Box_ChargeLance",
@@ -49108,7 +49108,7 @@
       "BasePrice": 2250,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_HandheldCannon": {
       "DefName": "VFEP_Box_HandheldCannon",
@@ -49123,7 +49123,7 @@
       "BasePrice": 1350,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_ChargeBlaster": {
       "DefName": "VFEP_Box_ChargeBlaster",
@@ -49138,7 +49138,7 @@
       "BasePrice": 2200,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Box_GravityHammer": {
       "DefName": "VFEP_Box_GravityHammer",
@@ -49153,7 +49153,7 @@
       "BasePrice": 3000,
       "Category": "Misc",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Rum": {
       "DefName": "VFEP_Rum",
@@ -49168,7 +49168,7 @@
       "BasePrice": 6,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Apparel_Privateer": {
       "DefName": "VFEP_Apparel_Privateer",
@@ -49183,7 +49183,7 @@
       "BasePrice": 2215,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Apparel_Rumsuit": {
       "DefName": "VFEP_Apparel_Rumsuit",
@@ -49198,7 +49198,7 @@
       "BasePrice": 210,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Mech_Wardrone": {
       "DefName": "VFEP_Mech_Wardrone",
@@ -49213,7 +49213,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_Mech_Spidermine": {
       "DefName": "VFEP_Mech_Spidermine",
@@ -49228,7 +49228,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketMeleeWeapon_CombatKnife": {
       "DefName": "VFEP_WarcasketMeleeWeapon_CombatKnife",
@@ -49243,7 +49243,7 @@
       "BasePrice": 870,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketMeleeWeapon_Broadsword": {
       "DefName": "VFEP_WarcasketMeleeWeapon_Broadsword",
@@ -49258,7 +49258,7 @@
       "BasePrice": 1460,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketMeleeWeapon_GravityHammer": {
       "DefName": "VFEP_WarcasketMeleeWeapon_GravityHammer",
@@ -49273,7 +49273,7 @@
       "BasePrice": 3000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketMeleeWeapon_PlasmaSword": {
       "DefName": "VFEP_WarcasketMeleeWeapon_PlasmaSword",
@@ -49288,7 +49288,7 @@
       "BasePrice": 3600,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEPGun_MiniBlaster": {
       "DefName": "VFEPGun_MiniBlaster",
@@ -49303,7 +49303,7 @@
       "BasePrice": 300,
       "Category": "Weapon",
       "Enabled": false,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_Autorifle": {
       "DefName": "VFEP_WarcasketGun_Autorifle",
@@ -49318,7 +49318,7 @@
       "BasePrice": 1250,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_UraniumSlugRifle": {
       "DefName": "VFEP_WarcasketGun_UraniumSlugRifle",
@@ -49333,7 +49333,7 @@
       "BasePrice": 1650,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_Slugthrower": {
       "DefName": "VFEP_WarcasketGun_Slugthrower",
@@ -49348,7 +49348,7 @@
       "BasePrice": 1100,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_Minigun": {
       "DefName": "VFEP_WarcasketGun_Minigun",
@@ -49363,7 +49363,7 @@
       "BasePrice": 2240,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_GrenadeLauncher": {
       "DefName": "VFEP_WarcasketGun_GrenadeLauncher",
@@ -49378,7 +49378,7 @@
       "BasePrice": 1890,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_HeavyFlamer": {
       "DefName": "VFEP_WarcasketGun_HeavyFlamer",
@@ -49393,7 +49393,7 @@
       "BasePrice": 2450,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_ChargeLance": {
       "DefName": "VFEP_WarcasketGun_ChargeLance",
@@ -49408,7 +49408,7 @@
       "BasePrice": 2250,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_HandheldCannon": {
       "DefName": "VFEP_WarcasketGun_HandheldCannon",
@@ -49423,7 +49423,7 @@
       "BasePrice": 1350,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFEP_WarcasketGun_ChargeBlaster": {
       "DefName": "VFEP_WarcasketGun_ChargeBlaster",
@@ -49438,7 +49438,7 @@
       "BasePrice": 2200,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RA_TinSoldier": {
       "DefName": "RA_TinSoldier",
@@ -50024,6 +50024,456 @@
       "Category": "Apparel",
       "Enabled": true,
       "modactive": false
+    },
+    "LTS_KitSmall": {
+      "DefName": "LTS_KitSmall",
+      "CustomName": "Small kit",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "[LTS]Ammunition - Framework",
+      "BasePrice": 44,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "LTS_KitMedium": {
+      "DefName": "LTS_KitMedium",
+      "CustomName": "Medium kit",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "[LTS]Ammunition - Framework",
+      "BasePrice": 85,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "LTS_KitLarge": {
+      "DefName": "LTS_KitLarge",
+      "CustomName": "Large kit",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "[LTS]Ammunition - Framework",
+      "BasePrice": 127,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FG_WhiteStagHeart": {
+      "DefName": "FG_WhiteStagHeart",
+      "CustomName": "White stag heart",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Forest Gods",
+      "BasePrice": 600,
+      "Category": "Misc",
+      "Enabled": false,
+      "modactive": true
+    },
+    "FG_ForestGodBlood": {
+      "DefName": "FG_ForestGodBlood",
+      "CustomName": "Blood of a god",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Forest Gods",
+      "BasePrice": 1300,
+      "Category": "Drugs",
+      "Enabled": false,
+      "modactive": true
+    },
+    "FG_ForestGodTear": {
+      "DefName": "FG_ForestGodTear",
+      "CustomName": "Tear of a god",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Forest Gods",
+      "BasePrice": 3000,
+      "Category": "Misc",
+      "Enabled": false,
+      "modactive": true
+    },
+    "FG_ForestGodFang": {
+      "DefName": "FG_ForestGodFang",
+      "CustomName": "Fang from a god",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Forest Gods",
+      "BasePrice": 3000,
+      "Category": "Misc",
+      "Enabled": false,
+      "modactive": true
+    },
+    "FG_ForestGodEye": {
+      "DefName": "FG_ForestGodEye",
+      "CustomName": "Eye of a god",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Forest Gods",
+      "BasePrice": 3000,
+      "Category": "Misc",
+      "Enabled": false,
+      "modactive": true
+    },
+    "FG_ForestGodIntestine": {
+      "DefName": "FG_ForestGodIntestine",
+      "CustomName": "Intestines of a god",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Forest Gods",
+      "BasePrice": 3000,
+      "Category": "Misc",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SecurityBellSmall": {
+      "DefName": "SecurityBellSmall",
+      "CustomName": "Small security bell",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 11,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SecurityBell": {
+      "DefName": "SecurityBell",
+      "CustomName": "Large security bell",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 20,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SurveillanceCamera_Mounted": {
+      "DefName": "SurveillanceCamera_Mounted",
+      "CustomName": "Wall camera",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 109,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SurveillanceCamera_Bush": {
+      "DefName": "SurveillanceCamera_Bush",
+      "CustomName": "Camera in a bush",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 200,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SurveillanceCamera_UnderRoof": {
+      "DefName": "SurveillanceCamera_UnderRoof",
+      "CustomName": "Ceiling camera",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 151,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SurveillanceCamera_Ground": {
+      "DefName": "SurveillanceCamera_Ground",
+      "CustomName": "Ground camera",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 160,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SurveillanceCamera_Solar": {
+      "DefName": "SurveillanceCamera_Solar",
+      "CustomName": "Solar camera",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 245,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "SurveillanceCamera_High": {
+      "DefName": "SurveillanceCamera_High",
+      "CustomName": "Camera post",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 420,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "WatchTelescope": {
+      "DefName": "WatchTelescope",
+      "CustomName": "Watch telescope",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 157,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "InspectorChicken": {
+      "DefName": "InspectorChicken",
+      "CustomName": "Inspector chicken",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 61,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "InspectorHare": {
+      "DefName": "InspectorHare",
+      "CustomName": "Inspector hare",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 61,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "InspectorMonkey": {
+      "DefName": "InspectorMonkey",
+      "CustomName": "Inspector monkey",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 61,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "InspectorRat": {
+      "DefName": "InspectorRat",
+      "CustomName": "Inspector rat",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 61,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "InspectorSquirrel": {
+      "DefName": "InspectorSquirrel",
+      "CustomName": "Inspector squirrel",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Total Fog",
+      "BasePrice": 61,
+      "Category": "Security",
+      "Enabled": false,
+      "modactive": true
+    },
+    "AmmoPrimitive": {
+      "DefName": "AmmoPrimitive",
+      "CustomName": "Primitive ammo",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 150,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[LTS]Ammunition - Simple Ammo Pack",
+      "BasePrice": 1,
+      "Category": "Ammunition",
+      "Enabled": false,
+      "modactive": true
+    },
+    "AmmoMedieval": {
+      "DefName": "AmmoMedieval",
+      "CustomName": "Medieval ammo",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 150,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[LTS]Ammunition - Simple Ammo Pack",
+      "BasePrice": 1,
+      "Category": "Ammunition",
+      "Enabled": false,
+      "modactive": true
+    },
+    "AmmoIndustrial": {
+      "DefName": "AmmoIndustrial",
+      "CustomName": "Industrial ammo",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 150,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[LTS]Ammunition - Simple Ammo Pack",
+      "BasePrice": 1,
+      "Category": "Ammunition",
+      "Enabled": false,
+      "modactive": true
+    },
+    "AmmoExplosive": {
+      "DefName": "AmmoExplosive",
+      "CustomName": "Explosive ammo",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 150,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[LTS]Ammunition - Simple Ammo Pack",
+      "BasePrice": 1,
+      "Category": "Ammunition",
+      "Enabled": false,
+      "modactive": true
+    },
+    "AmmoSpacer": {
+      "DefName": "AmmoSpacer",
+      "CustomName": "Spacer ammo",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 150,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[LTS]Ammunition - Simple Ammo Pack",
+      "BasePrice": 1,
+      "Category": "Ammunition",
+      "Enabled": false,
+      "modactive": true
+    },
+    "AmmoUltratech": {
+      "DefName": "AmmoUltratech",
+      "CustomName": "Ultratech ammo",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 150,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[LTS]Ammunition - Simple Ammo Pack",
+      "BasePrice": 2,
+      "Category": "Ammunition",
+      "Enabled": false,
+      "modactive": true
+    },
+    "AmmoArchotech": {
+      "DefName": "AmmoArchotech",
+      "CustomName": "Archotech ammo",
+      "HasQuantityLimit": false,
+      "QuantityLimit": 150,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "[LTS]Ammunition - Simple Ammo Pack",
+      "BasePrice": 4,
+      "Category": "Ammunition",
+      "Enabled": false,
+      "modactive": true
     }
   }
 }
