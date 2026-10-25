@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-10-25T09:37:40.4270139Z",
-  "totalActiveMods": 124,
+  "exportedAt": "2026-10-25T10:27:30.2509049Z",
+  "totalActiveMods": 123,
   "mods": [
     {
       "author": "Captolamia",
@@ -277,12 +277,6 @@
       "name": "Harmony",
       "steamId": "2009463077",
       "version": "3.0.1.0"
-    },
-    {
-      "author": "Syrus",
-      "name": "Healer Mech Serum Choice",
-      "steamId": "2714095848",
-      "version": null
     },
     {
       "author": "erdelf",
