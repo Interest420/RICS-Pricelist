@@ -50,7 +50,7 @@
       "Dirtmole": true,
       "Genie": true,
       "Hussar": true,
-      "Sanguophage": true,
+      "Sanguophage": false,
       "Neanderthal": true,
       "Pigskin": true,
       "Impid": true,
@@ -72,8 +72,8 @@
       "MG_Cowgirl": false,
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -135,7 +135,7 @@
       "Impid": true,
       "Waster": true,
       "Yttakin": true,
-      "Highmate": false,
+      "Highmate": true,
       "Starjack": true,
       "MG_Dragon": false,
       "MG_Thrumbogirl": false,
@@ -152,8 +152,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -378,8 +378,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -458,8 +458,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -690,8 +690,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -770,8 +770,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -850,8 +850,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -930,8 +930,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -1010,8 +1010,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -1090,8 +1090,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -1170,8 +1170,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
@@ -1250,8 +1250,8 @@
       "YuranXenotype": true,
       "YuranXenotypeBlackSnake": false,
       "Cinder_Xenotype": false,
-      "Moyo2_Xenotype_Chemskin": true,
-      "Moyo2_Xenotype_Depthborn": true,
+      "Moyo2_Xenotype_Chemskin": false,
+      "Moyo2_Xenotype_Depthborn": false,
       "RK_XenoType_Ratkin": false
     }
   },
