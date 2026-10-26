@@ -126,17 +126,17 @@
     },
     "EnabledXenotypes": {
       "Baseliner": true,
-      "Dirtmole": true,
-      "Genie": true,
-      "Hussar": true,
+      "Dirtmole": false,
+      "Genie": false,
+      "Hussar": false,
       "Sanguophage": false,
-      "Neanderthal": true,
-      "Pigskin": true,
-      "Impid": true,
-      "Waster": true,
-      "Yttakin": true,
-      "Highmate": true,
-      "Starjack": true,
+      "Neanderthal": false,
+      "Pigskin": false,
+      "Impid": false,
+      "Waster": false,
+      "Yttakin": false,
+      "Highmate": false,
+      "Starjack": false,
       "MG_Dragon": false,
       "MG_Thrumbogirl": false,
       "MG_Baphomet": false,
@@ -231,7 +231,7 @@
   },
   "Milira_Race": {
     "DisplayName": "Milira",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 10000,
     "MinAge": 16,
@@ -351,7 +351,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -431,7 +431,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -509,7 +509,7 @@
       "RK_XenoType_Ratkin": 5000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -585,7 +585,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -663,7 +663,7 @@
       "RK_XenoType_Ratkin": 5000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -743,7 +743,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -823,7 +823,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -903,7 +903,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -983,7 +983,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -1063,7 +1063,7 @@
       "RK_XenoType_Ratkin": 5000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -1143,7 +1143,7 @@
       "RK_XenoType_Ratkin": 5000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -1223,7 +1223,7 @@
       "RK_XenoType_Ratkin": 3000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": false,
+      "Baseliner": true,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
