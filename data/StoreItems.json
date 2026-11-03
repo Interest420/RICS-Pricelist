@@ -1656,13 +1656,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 10,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 20,
       "Category": "Meals",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MealFine_Meat": {
@@ -5528,11 +5528,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "OrbitalTargeterPowerBeam": {
@@ -14901,13 +14901,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 75,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Plants Expanded",
       "BasePrice": 1,
       "Category": "Vegetarian",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VCE_RawPumpkin": {
@@ -27621,13 +27621,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Neurotrainer_Melee": {
