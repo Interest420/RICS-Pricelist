@@ -1017,7 +1017,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Power",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "TableSculpting": {
@@ -21717,7 +21717,7 @@
       "Mod": "Milira Race",
       "BasePrice": 1505,
       "Category": "Power",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Milira_SunBlastFurnace": {
