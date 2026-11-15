@@ -231,7 +231,7 @@
   },
   "Milira_Race": {
     "DisplayName": "Milira",
-    "Enabled": false,
+    "Enabled": true,
     "ModActive": true,
     "BasePrice": 10000,
     "MinAge": 16,
