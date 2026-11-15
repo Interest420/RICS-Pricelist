@@ -541,7 +541,7 @@
   },
   "militaryaid": {
     "Enabled": true,
-    "CooldownSeconds": 300,
+    "CooldownSeconds": 1200,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -561,7 +561,7 @@
   },
   "raid": {
     "Enabled": true,
-    "CooldownSeconds": 300,
+    "CooldownSeconds": 1200,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -873,7 +873,7 @@
     "CustomData": "{\"enableSelfRevive\":\"true\",\"enableTargetRevive\":\"true\",\"enableAllRevive\":\"true\",\"reviveCostMultiplier\":\"1.0\"}"
   },
   "healpawn": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 1,
     "Cost": 0,
     "SupportsCost": false,
@@ -1410,7 +1410,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"allowAnySkin\":\"false\"}"
+    "CustomData": "{\"allowAnySkin\":\"True\"}"
   },
   "expertise": {
     "Enabled": true,
@@ -2405,6 +2405,46 @@
     "Label": "vote close",
     "CommandDescription": "Moderator. Close the current storyteller vote and fire the winner now.",
     "ExcludeFromPricelist": false,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "enable": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "moderator",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "enable command",
+    "CommandDescription": "Turn a command on. Usage: !enable command. Chat cannot turn !enable or !disable on or off. Use command settings for those.",
+    "ExcludeFromPricelist": true,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "disable": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "moderator",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "disable command",
+    "CommandDescription": "Turn a command off. Usage: !disable command. Chat cannot turn !enable or !disable on or off. Use command settings for those.",
+    "ExcludeFromPricelist": true,
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],
     "DefaultLootBoxSize": 1,

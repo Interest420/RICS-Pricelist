@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Quests Expanded - Deadlife",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_FertileRains": {
