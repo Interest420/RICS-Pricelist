@@ -2172,7 +2172,7 @@
       "Mod": "Core",
       "BasePrice": 32,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ComponentSpacer": {
@@ -3368,11 +3368,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Core",
       "BasePrice": 196,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Apparel_Jacket": {
@@ -7671,13 +7671,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
       "BasePrice": 500,
       "Category": "Mechtech",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ControlSublink": {
