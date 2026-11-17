@@ -2487,7 +2487,7 @@
       "Mod": "Core",
       "BasePrice": 1,
       "Category": "Raw resources",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gold": {
@@ -3128,11 +3128,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Core",
       "BasePrice": 92,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Apparel_AdvancedHelmet": {
