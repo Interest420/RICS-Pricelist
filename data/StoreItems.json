@@ -156,13 +156,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 150,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 10,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Yayo": {
@@ -1521,13 +1521,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 10,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 1300,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MechSerumResurrector": {
@@ -2637,7 +2637,7 @@
       "Mod": "Core",
       "BasePrice": 9,
       "Category": "Textiles",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "WoolSheep": {
