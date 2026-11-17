@@ -2532,7 +2532,7 @@
       "Mod": "Core",
       "BasePrice": 9,
       "Category": "Raw resources",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "WoodLog": {
@@ -3128,11 +3128,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": true,
+      "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 92,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_AdvancedHelmet": {
@@ -3413,11 +3413,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Core",
       "BasePrice": 225,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Apparel_FlakPants": {
