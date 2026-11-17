@@ -17918,11 +17918,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 450,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "xmasantlers": {
@@ -21732,7 +21732,7 @@
       "Mod": "Milira Race",
       "BasePrice": 6305,
       "Category": "Production",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Milira_TailoringBench": {
@@ -31568,11 +31568,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Vanilla Apparel Expanded — Accessories",
       "BasePrice": 106,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VAEA_Apparel_ExplosiveBelt": {
