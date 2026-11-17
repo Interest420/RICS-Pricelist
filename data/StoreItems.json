@@ -5032,12 +5032,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 265,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MeleeWeapon_Club": {
@@ -10957,12 +10957,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 480,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_SniperRifle_Unique": {
@@ -22672,12 +22672,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Milira Race",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Milira_PoleBlade": {
@@ -24157,12 +24157,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": true,
+      "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Nyaron race",
       "BasePrice": 995,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ReelStorageBarrelPallet": {
