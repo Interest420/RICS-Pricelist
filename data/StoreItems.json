@@ -216,13 +216,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 2600,
       "Category": "Archotech",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Urn": {
@@ -1536,13 +1536,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 10,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 1700,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "TechprofSubpersonaCore": {
@@ -8232,7 +8232,7 @@
       "Mod": "Biotech",
       "BasePrice": 700,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MechanoidTransponder": {
