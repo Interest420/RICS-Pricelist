@@ -31598,11 +31598,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Vanilla Apparel Expanded — Accessories",
       "BasePrice": 390,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VAEA_Apparel_RessurectorBelt": {
