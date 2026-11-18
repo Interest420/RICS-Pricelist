@@ -2157,7 +2157,7 @@
       "Mod": "Core",
       "BasePrice": 50,
       "Category": "Medicine",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ComponentIndustrial": {
