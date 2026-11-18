@@ -111,13 +111,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 150,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 70,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Penoxycyline": {
@@ -19587,7 +19587,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 2255,
       "Category": "Bionic",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "BiotunerImplant": {
