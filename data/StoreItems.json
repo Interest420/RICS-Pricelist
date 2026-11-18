@@ -9417,7 +9417,7 @@
       "Mod": "Anomaly",
       "BasePrice": 9,
       "Category": "Raw resources",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Leather_Dread": {
@@ -10912,12 +10912,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 405,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_HeavySMG_Unique": {
@@ -20468,11 +20468,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Milira Race",
       "BasePrice": 415,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Milira_CombatDrone_QuadrupleRocketLauncher": {
@@ -22362,7 +22362,7 @@
       "Mod": "Milira Race",
       "BasePrice": 2000,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Milira_SunLightFruit": {
