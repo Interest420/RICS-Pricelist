@@ -51,13 +51,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 25,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 12,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Wort": {
@@ -17952,7 +17952,7 @@
       "Mod": "[L] House Maid Nukos 1.7",
       "BasePrice": 1000,
       "Category": "Animals",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SeniorMaidnukos": {
@@ -27756,13 +27756,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Neurotrainer_Social": {
