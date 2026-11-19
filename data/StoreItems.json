@@ -9642,7 +9642,7 @@
       "Mod": "Anomaly",
       "BasePrice": 600,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_HellcatRifle": {
@@ -23247,7 +23247,7 @@
       "Mod": "Milira Race",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Milian_Mechanoid_PawnII": {
@@ -27306,13 +27306,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Royalty",
       "BasePrice": 700,
       "Category": "Psytrainers",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Psytrainer_Wallraise": {
@@ -27486,13 +27486,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Psytrainer_WordOfTrust": {
