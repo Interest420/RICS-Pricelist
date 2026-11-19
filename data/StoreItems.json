@@ -50678,11 +50678,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Vanilla Factions Expanded - Empire",
       "BasePrice": 1200,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VFEE_Apparel_DeserterHelmet": {
