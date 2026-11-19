@@ -96,13 +96,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 150,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 53,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Luciferium": {
@@ -10942,12 +10942,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 425,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_AssaultRifle_Unique": {
