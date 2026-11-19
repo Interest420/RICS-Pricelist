@@ -2502,7 +2502,7 @@
       "Mod": "Core",
       "BasePrice": 10,
       "Category": "Raw resources",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Steel": {
