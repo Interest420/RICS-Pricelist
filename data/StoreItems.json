@@ -4392,7 +4392,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Raccoon": {
@@ -14397,7 +14397,7 @@
       "Mod": "Yuran race",
       "BasePrice": 1000,
       "Category": "Yuran rabbit statue",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "YR_ManekiUsagi_Craft": {
@@ -51027,7 +51027,7 @@
       "Mod": "Vanilla Factions Expanded - Deserters",
       "BasePrice": 157,
       "Category": "Security",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VFED_RemoteTrapIED_ArmorPiercing": {
