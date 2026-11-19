@@ -8772,7 +8772,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Apocriton": {
@@ -9667,12 +9667,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Anomaly",
       "BasePrice": 530,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "NerveSpiker": {
