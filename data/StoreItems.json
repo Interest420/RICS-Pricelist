@@ -8622,7 +8622,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Lifter": {
