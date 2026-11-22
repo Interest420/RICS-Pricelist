@@ -19692,7 +19692,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 1000,
       "Category": "Archotech",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Archowomb": {
