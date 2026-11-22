@@ -13628,11 +13628,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Yuran race",
       "BasePrice": 62,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "YR_AP_Heat": {
@@ -51027,7 +51027,7 @@
       "Mod": "Vanilla Factions Expanded - Deserters",
       "BasePrice": 157,
       "Category": "Security",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VFED_RemoteTrapIED_ArmorPiercing": {
