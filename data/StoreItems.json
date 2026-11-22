@@ -2517,7 +2517,7 @@
       "Mod": "Core",
       "BasePrice": 2,
       "Category": "Raw resources",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Plasteel": {
@@ -26622,7 +26622,7 @@
       "Mod": "Vanilla Furniture Expanded - Art",
       "BasePrice": 1190,
       "Category": "Art",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VFE_Pillar": {
@@ -50753,11 +50753,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Vanilla Factions Expanded - Empire",
       "BasePrice": 3200,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VFEE_Apparel_JanissaryCuirass": {
