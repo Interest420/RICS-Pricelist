@@ -2397,7 +2397,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Shell_Incendiary": {
