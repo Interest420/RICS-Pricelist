@@ -19041,13 +19041,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Integrated Implants",
       "BasePrice": 1200,
       "Category": "Mechtech",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SignalBoosterHigh": {
