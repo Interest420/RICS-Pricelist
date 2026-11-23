@@ -27,7 +27,7 @@
       "Mod": "Core",
       "BasePrice": 150,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Novel": {
@@ -2187,7 +2187,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Neutroamine": {
@@ -8832,7 +8832,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_ToxbombLauncher": {
@@ -20037,7 +20037,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 1365,
       "Category": "Bionic",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "LTS_ManipulationTail": {
@@ -20187,7 +20187,7 @@
       "Mod": "Milira Race",
       "BasePrice": 1150,
       "Category": "Production",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Milira_DroneRecharger": {
@@ -31851,13 +31851,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Integrated Implants",
       "BasePrice": 5000,
       "Category": "Mechtech",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "TechnologyBlueprintNeolithic": {
