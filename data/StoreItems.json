@@ -8528,11 +8528,11 @@
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
-      "IsWearable": false,
+      "IsWearable": true,
       "Mod": "Biotech",
       "BasePrice": 163,
       "Category": "Apparel",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Apparel_Sash": {
@@ -10972,12 +10972,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 530,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_Minigun_Unique": {
@@ -10987,12 +10987,12 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Odyssey",
       "BasePrice": 1160,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Bow_Great_Unique": {
@@ -27351,13 +27351,13 @@
       "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": false,
+      "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Royalty",
       "BasePrice": 700,
       "Category": "Psytrainers",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Psytrainer_Berserk": {
